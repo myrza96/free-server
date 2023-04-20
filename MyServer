@@ -5,6 +5,12 @@ vless://de04add9-5c68-8bab-950c-08cd5320df18@myrzaatvg.eu-ccofhtfzmvsd.dopraxapp
 vless://de04add9-5c68-8bab-950c-08cd5320df18@mci.ircf.space:443?encryption=none&security=tls&sni=doprax.myrza.eu.org&type=ws&host=doprax.myrza.eu.org&path=%2Fvless#Doprax-VLess-MCI
 
 #Back4App
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJhY2s0QXBwLVZNZXNzIiwNCiAgImFkZCI6ICJlZGl0b3JzLXByZXNzLWludmVzdGlnYXRvci1zdGV2ZS50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0ZjhmNDc0Ni1kYzkxLTQ1MjctOTA4MC1jNzA1ZGMwZmZjMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVkaXRvcnMtcHJlc3MtaW52ZXN0aWdhdG9yLXN0ZXZlLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJhY2s0QXBwLVZNZXNzLUlyYW5jZWxsIiwNCiAgImFkZCI6ICJtdG4uaXJjZi5zcGFjZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0ZjhmNDc0Ni1kYzkxLTQ1MjctOTA4MC1jNzA1ZGMwZmZjMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVkaXRvcnMtcHJlc3MtaW52ZXN0aWdhdG9yLXN0ZXZlLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://4f8f4746-dc91-4527-9080-c705dc0ffc33@editors-press-investigator-steve.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=editors-press-investigator-steve.trycloudflare.com&path=%2Fvless%3Fed%3D2048#Back4App-VLess
+vless://4f8f4746-dc91-4527-9080-c705dc0ffc33@mci.ircf.space:443?encryption=none&security=tls&type=ws&host=editors-press-investigator-steve.trycloudflare.com&path=%2Fvless%3Fed%3D2048#Back4App-VLess-MCI
+trojan://4f8f4746-dc91-4527-9080-c705dc0ffc33@editors-press-investigator-steve.trycloudflare.com:443?security=tls&type=ws&host=editors-press-investigator-steve.trycloudflare.com&path=%2Ftrojan%3Fed2048#Back4App-Trojan
+trojan://4f8f4746-dc91-4527-9080-c705dc0ffc33@mtnx.ircf.space:443?security=tls&type=ws&host=editors-press-investigator-steve.trycloudflare.com&path=%2Ftrojan%3Fed2048#Back4App-Trojan-Irancell
 
 #Render
 
