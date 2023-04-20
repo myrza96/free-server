@@ -5,12 +5,6 @@ vless://de04add9-5c68-8bab-950c-08cd5320df18@myrzaatvg.eu-ccofhtfzmvsd.dopraxapp
 vless://de04add9-5c68-8bab-950c-08cd5320df18@mci.ircf.space:443?encryption=none&security=tls&sni=doprax.myrza.eu.org&type=ws&host=doprax.myrza.eu.org&path=%2Fvless#Doprax-VLess-MCI
 
 #Back4App
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJhY2s0QXBwLVZNZXNzIiwNCiAgImFkZCI6ICJkai10aXNzdWUtZmlsZXMtYmFza2V0LnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjRmOGY0NzQ2LWRjOTEtNDUyNy05MDgwLWM3MDVkYzBmZmMzMyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGotdGlzc3VlLWZpbGVzLWJhc2tldC50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJhY2s0QXBwLVZNZXNzLUlyYW5jZWxsIiwNCiAgImFkZCI6ICJtdG4uaXJjZi5zcGFjZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0ZjhmNDc0Ni1kYzkxLTQ1MjctOTA4MC1jNzA1ZGMwZmZjMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRqLXRpc3N1ZS1maWxlcy1iYXNrZXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3M/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-vless://4f8f4746-dc91-4527-9080-c705dc0ffc33@dj-tissue-files-basket.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=dj-tissue-files-basket.trycloudflare.com&path=%2Fvless%3Fed%3D2048#Back4App-VLess
-vless://4f8f4746-dc91-4527-9080-c705dc0ffc33@mci.ircf.space:443?encryption=none&security=tls&type=ws&host=dj-tissue-files-basket.trycloudflare.com&path=%2Fvless%3Fed%3D2048#Back4App-VLess-MCI
-trojan://4f8f4746-dc91-4527-9080-c705dc0ffc33@dj-tissue-files-basket.trycloudflare.com:443?security=tls&type=ws&host=dj-tissue-files-basket.trycloudflare.com&path=%2Ftrojan%3Fed2048#Back4App-Trojan
-trojan://4f8f4746-dc91-4527-9080-c705dc0ffc33@mtnx.ircf.space:443?security=tls&type=ws&host=dj-tissue-files-basket.trycloudflare.com&path=%2Ftrojan%3Fed2048#Back4App-Trojan-Irancell
 
 #Render
 
